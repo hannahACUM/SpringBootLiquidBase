@@ -20,7 +20,6 @@ import javax.cache.Caching;
 import javax.cache.spi.CachingProvider;
 import javax.sql.DataSource;
 import java.time.Duration;
-
 @Configuration
 @EnableCaching
 public class DemoSecurityConfig {
